@@ -43,14 +43,6 @@ Example:
 Enter Domain (example: google.com): google.com
 ```
 
-Example Output:
-
-```text
-IPv4 Address : 192.178.158.102
-Hostname     : nv-in-f113.1e100.net
-IPv6 Address : 2404:6800:4013:802::71
-Reverse DNS  : lcdels-in-f102.1e100.net
-```
 ## Screenshots
 
 ### Tool Banner
